@@ -11,3 +11,7 @@ def foo():
 
 def bread():
     print(4)
+
+
+def coffee():
+    print(6)

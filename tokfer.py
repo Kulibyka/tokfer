@@ -7,3 +7,7 @@ def func():
 
 def foo():
     print(3)
+
+
+def bread():
+    print(4)
